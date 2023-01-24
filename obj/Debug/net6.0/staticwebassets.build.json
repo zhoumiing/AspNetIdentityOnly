@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "I0OqAOQkIyeVLlC83afyAhDZvtiTDAHdyepi6Nd8VpY=",
+  "Source": "AspNetIdentityOnly",
+  "BasePath": "_content/AspNetIdentityOnly",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
